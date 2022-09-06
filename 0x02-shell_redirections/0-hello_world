@@ -1,2 +1,2 @@
 #!/bin/bash
-lpr -P 'Hello, World'
+lprintf "Hello, World\n"
